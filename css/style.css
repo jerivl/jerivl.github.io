@@ -105,14 +105,14 @@ h4 {
 }
 
 a {
-  color: #FF4C60;
+  color: #a79bc5;
   outline: 0;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 a:hover {
-  color: #353353;
+  color: #FF4C60;
   text-decoration: none;
 }
 a:focus {
